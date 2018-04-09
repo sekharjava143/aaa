@@ -10,6 +10,7 @@ public class College {
    public static void main(String[] args) {
 	   College c1=new College();
 	  College c2=new College(); 
+	  //jd
 	//  College c3=new College();
 }
 }
